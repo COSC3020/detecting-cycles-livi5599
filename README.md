@@ -15,3 +15,9 @@ the function and run automatically when you commit through a GitHub action.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+-----
+
+I recieved help from ChatGPT.  I asked it how breadth first search works in graphs as a refresher from class, and I also asked it for help when I was struggling with getting my code to work how I wanted it to.  My first commit shows what my code looked like when I was stuck, and after asking ChatGPT for help and an explanation as to why the code wasn't working as I intended it to, the slightly updated code is my second commit.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models.  All of the work is my own, except where stated otherwise.  I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
